@@ -5,19 +5,19 @@
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/anaconda-20232a.svg?style=for-the-badge&logo=anaconda&logoColor=04B431" />&nbsp <!-- anaconda -->
-    <img src="https://img.shields.io/badge/jupyter%20notebook-20232a.svg?style=for-the-badge&logo=jupyter&logoColor=FF8000" />&nbsp <!-- jupyter notebook -->
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=for-the-badge&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
+    <img src="https://img.shields.io/badge/anaconda-20232a.svg?style=flat-square&logo=anaconda&logoColor=04B431" />&nbsp <!-- anaconda -->
+    <img src="https://img.shields.io/badge/jupyter%20notebook-20232a.svg?style=flat-square&logo=jupyter&logoColor=FF8000" />&nbsp <!-- jupyter notebook -->
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-20232a.svg?style=flat-square&logo=visualstudiocode&logoColor=61DAFB" />&nbsp <!-- visualstudioCode -->
   <hr>
 </p>
 
  <p align='center'>
-    <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=Python&logoColor=blue" />&nbsp <!-- python -->
+    <img src="https://img.shields.io/badge/Python-20232a.svg?style=flat-square&logo=Python&logoColor=blue" />&nbsp <!-- python -->
   <hr>
 </p>
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/난생처음 데이터분석 with 파이썬-20232a.svg?style=for-the-badge&logo=Python&logoColor=blue" />&nbsp <!-- python -->
+    <img src="https://img.shields.io/badge/난생처음 데이터분석 with 파이썬-20232a.svg?style=flat-square&logo=Python&logoColor=blue" />&nbsp <!-- python -->
   <hr>
 </p>
