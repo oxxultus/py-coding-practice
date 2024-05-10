@@ -1,0 +1,2 @@
+df['Data'] = pd.to_datetime(df['날짜'], format='%Y%m%d') + \
+             pd.to_timedelta(df['시간'].astype(int), unit='h')
