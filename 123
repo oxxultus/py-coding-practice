@@ -1,2 +1,0 @@
-df2 = pd.read_csv('reference files/csv/대전지하수.csv',index_col='Data',parse_dates=True,encoding='cp949')
-df2.head(4)
